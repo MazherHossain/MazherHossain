@@ -1,0 +1,22 @@
+<info>
+	<users>
+		<usertype>
+		<id>Eshan</id>
+		<email>eshan@gmail.com</email>
+		<password>16322722</password>
+		</usertype>
+		
+		<usertype>
+		<id>Sanjana</id>
+		<email>sanjana@gmail.com</email>
+		<password>16329183</password>
+		</usertype>
+		
+		<usertype>
+		<id>Mazher</id>
+		<email>mazher@gmail.com</email>
+		<password>16321752</password>
+		</usertype>
+	</users>
+	
+</info>
